@@ -1,0 +1,22 @@
+.header{
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.header__start{
+    display: flex;
+    justify-content: flex-start;
+}
+.header__end{
+    display: flex;
+    justify-content: flex-end;
+    gap:80px;
+}
+.header__end>.anticon{
+    color: #62a9b7 !important;
+    cursor: pointer;
+}
+.header__start>.anticon{
+    color: #62a9b7 !important;
+    cursor: pointer;
+}
