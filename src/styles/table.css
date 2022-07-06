@@ -1,0 +1,14 @@
+.table{
+    padding-left: 20px;
+    margin-top: 60px;
+}
+
+.columngroup{
+    background-color: #797979 !important;
+    border-left: 2px solid #fff;
+    min-width: 100vw;
+    color: white !important;
+}
+.ant-table-tbody>tr:nth-child(2n){
+    background-color: #d3d3d3;
+}
